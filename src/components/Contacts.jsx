@@ -1,6 +1,6 @@
 const contacts=[{
   Name:"Abhishek",
-  Image: "https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest?cb=20170628120149",
+  Image: "https://preview.redd.it/y5oe4qs9m2i51.jpg?width=960&format=pjpg&auto=webp&s=ee21d7ddc43b46bb62fe3f18e79304ef51375909",
   Tel: "5522533353"
 },
 {
